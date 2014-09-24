@@ -18,6 +18,6 @@ Presentation Steps
 
 Supporting Modules to be Familiar With
 ---------------------------------------
-    * Assert - [http://nodejs.org/api/assert.html](http://nodejs.org/api/assert.html)
-    * Should - [https://github.com/visionmedia/should.js/](https://github.com/visionmedia/should.js/)
-    * Supertest - [https://github.com/visionmedia/should.js/](https://github.com/visionmedia/should.js/)
+1. Assert - [http://nodejs.org/api/assert.html](http://nodejs.org/api/assert.html)
+2. Should - [https://github.com/visionmedia/should.js/](https://github.com/visionmedia/should.js/)
+3. Supertest - [https://github.com/visionmedia/should.js/](https://github.com/visionmedia/should.js/)
