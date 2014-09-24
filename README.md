@@ -13,7 +13,7 @@ Presentation Steps
 4. Some options Moroni Pickering uses often: [http://visionmedia.github.io/mocha/#usage](http://visionmedia.github.io/mocha/#usage)
     * grep: mocha -g <pattern>
     * run specific test file(s): mocha <files>
-5. Walkthrough [https://github.com/Utah-Node-Ninjas/unn-api/unn-api/test/emailTest.js](https://github.com/Utah-Node-Ninjas/unn-api/unn-api/test/emailTest.js)
+5. Walkthrough [https://github.com/Utah-Node-Ninjas/unn-api/blob/develop/test/emailTest.js](https://github.com/Utah-Node-Ninjas/unn-api/blob/develop/test/emailTest.js)
 
 
 Supporting Modules to be Familiar With
